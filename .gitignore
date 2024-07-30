@@ -1,0 +1,7 @@
+# JetBrains
+.idea/
+*.iml
+
+# Environments
+.venv*
+venv*/
