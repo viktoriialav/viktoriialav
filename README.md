@@ -3,14 +3,15 @@
 
 ___
 
-### Brief information about me:
+### :trophy: Brief information about me:
 
-#### :trophy: I have or know:
 - Master's degree in Applied Mechanics from [St.Petersburg Polytechnic University](https://english.spbstu.ru/)
 - Programming experience in Python for more than 1 year
 - Languages: Russian (native), English (B2)
 
-#### :books: :computer: I'm currently learning and interested in:
+___
+
+### :books: :computer: I'm currently learning and interested in:
 - Python
 - Test Automation
 
@@ -37,6 +38,11 @@ ____
         </a>
       </td>
       <td align="center">
+        <a target="_blank" href=https://www.sqlite.org/>
+          <img align="center" src="/resources/PyCharm.svg" width="40" height="40" alt="PyCharm"/>
+        </a>
+      </td>
+      <td align="center">
         <a target="_blank" href=https://allurereport.org/>
           <img align="center" src="/resources/AllureReport.png" width="40" height="40" alt="Allure Report"/>
         </a>
@@ -59,6 +65,16 @@ ____
       <td align="center">
         <a target="_blank" href=https://git-scm.com/>
           <img align="center" src="/resources/Git.png" width="40" height="40" alt="Git"/>
+        </a>
+      </td>
+      <td align="center">
+        <a target="_blank" href=https://www.mysql.com/>
+          <img align="center" src="/resources/MySQL.svg" width="40" height="40" alt="MySQL"/>
+        </a>
+      </td>
+      <td align="center">
+        <a target="_blank" href=https://www.sqlite.org/>
+          <img align="center" src="/resources/SQLite.svg" width="40" height="40" alt="SQLite"/>
         </a>
       </td>
     </tr>
