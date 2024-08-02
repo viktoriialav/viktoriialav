@@ -50,7 +50,7 @@ ____
       </td>
       <td align="center">
         <a target="_blank" href=https://github.com/aerokube/selenoid>
-          <img align="center" src="/resources/Selenoid.png" width="40" height="40" alt="Jenkins"/>
+          <img align="center" src="/resources/Selenoid.png" width="40" height="40" alt="Selenoid"/>
         </a>
       </td>
       <td align="center">
