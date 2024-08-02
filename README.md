@@ -38,7 +38,7 @@ ____
         </a>
       </td>
       <td align="center">
-        <a target="_blank" href=https://www.sqlite.org/>
+        <a target="_blank" href=https://www.jetbrains.com/pycharm/>
           <img align="center" src="/resources/PyCharm.svg" width="40" height="40" alt="PyCharm"/>
         </a>
       </td>
