@@ -19,6 +19,7 @@ ____
 
 ### :keyboard: :desktop_computer: I code with:
 
+
 <table border='0' style="border-style: none">
   <tbody>
     <tr>
@@ -43,6 +44,16 @@ ____
         </a>
       </td>
       <td align="center">
+        <a target="_blank" href=https://www.jenkins.io/>
+          <img align="center" src="/resources/Jenkins.svg" width="40" height="40" alt="Jenkins"/>
+        </a>
+      </td>
+      <td align="center">
+        <a target="_blank" href=https://github.com/aerokube/selenoid>
+          <img align="center" src="/resources/Selenoid.png" width="40" height="40" alt="Jenkins"/>
+        </a>
+      </td>
+      <td align="center">
         <a target="_blank" href=https://allurereport.org/>
           <img align="center" src="/resources/AllureReport.png" width="40" height="40" alt="Allure Report"/>
         </a>
@@ -50,11 +61,6 @@ ____
       <td align="center">
         <a target="_blank" href=https://qameta.io/>
           <img align="center" src="/resources/AllureTestOps.png" width="40" height="40" alt="Allure TestOps"/>
-        </a>
-      </td>
-      <td align="center">
-        <a target="_blank" href=https://www.jenkins.io/>
-          <img align="center" src="/resources/Jenkins.svg" width="40" height="40" alt="Jenkins"/>
         </a>
       </td>
       <td align="center">
