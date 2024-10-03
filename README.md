@@ -20,7 +20,7 @@ ___
 
 ____
 
-### :keyboard: :desktop_computer: I code with:
+### :desktop_computer: :keyboard: I code with:
 
 
 <table border='0' style="border-style: none">
@@ -128,12 +128,12 @@ ____
     <tr>
       <td align="center">
         <a target="_blank" href=https://www.browserstack.com/>
-          <img align="center" src="/resources/Bstack.svg" width="45" alt="BrowserStack"/>
+          <img align="center" src="/resources/Bstack.svg" width="40" alt="BrowserStack"/>
         </a>
       </td>
       <td align="center">
         <a target="_blank" href=https://www.browserstack.com/>
-          <img align="center" src="/resources/AndroidStudio.svg" width="45" alt="Android Studio"/>
+          <img align="center" src="/resources/AndroidStudio.svg" width="40" alt="Android Studio"/>
         </a>
       </td>
     </tr>
@@ -217,7 +217,7 @@ ____
 -->
 ___
 
-### :briefcase: :iphone: :computer: Diploma project at [QA.GURU](https://qa.guru/)
+### :briefcase: :computer: :iphone: Diploma project at [QA.GURU](https://qa.guru/)
 
 <table width="100%" border='0'>
   <tbody>
