@@ -59,34 +59,22 @@ ____
     </tr>
     <tr>
       <td align="center">
-        <a target="_blank" href="https://www.python.org/">
-          <b>Python</b>
-        </a>
+        <b>Python</b>
       </td>
       <td align="center">
-        <a target="_blank" href=https://docs.pytest.org/en/stable/index.html#>
-          <b>Pytest</b>
-        </a>
+        <b>Pytest</b>
       </td>
       <td align="center">
-        <a target="_blank" href=https://www.selenium.dev/>
-          <b>Selenium</b>
-        </a>
+        <b>Selenium</b>
       </td>
       <td align="center">
-        <a target="_blank" href=https://github.com/yashaka/selene>
-          <b>Selene</b>
-        </a>
+        <b>Selene</b>
       </td>
       <td align="center">
-        <a target="_blank" href=https://appium.io/docs/en/latest/>
-          <b>Appium</b>
-        </a>
+        <b>Appium</b>
       </td>
       <td align="center">
-        <a target="_blank" href=https://www.jetbrains.com/pycharm/>
-          <b>PyCharm</b>
-        </a>
+        <b>PyCharm</b>
       </td>
     </tr>
   </tbody>
@@ -119,24 +107,16 @@ ____
     </tr>
     <tr>
       <td align="center">
-        <a target="_blank" href=https://git-scm.com/>
-          <b>Git</b>
-        </a>
+        <b>Git</b>
       </td>
       <td align="center">
-        <a target="_blank" href=https://github.com/>
-          <b>Github</b>
-        </a>
+        <b>Github</b>
       </td>
       <td align="center">
-        <a target="_blank" href=https://www.jenkins.io/>
-          <b>Jenkins</b>
-        </a>
+        <b>Jenkins</b>
       </td>
       <td align="center">
-        <a target="_blank" href=https://github.com/aerokube/selenoid>
-          <b>Selenoid</b>
-        </a>
+        <b>Selenoid</b>
       </td>
     </tr>
   </tbody>
@@ -159,14 +139,10 @@ ____
     </tr>
     <tr>
       <td align="center">
-        <a target="_blank" href=https://www.browserstack.com/>
-          <b>BrowserStack</b>
-        </a>
+        <b>BrowserStack</b>
       </td>
       <td align="center">
-        <a target="_blank" href=https://www.browserstack.com/>
-          <b>Android Studio</b>
-        </a>
+        <b>Android Studio</b>
       </td>
     </tr>
   </tbody>
@@ -194,19 +170,13 @@ ____
     </tr>
     <tr>
       <td align="center">
-        <a target="_blank" href=https://allurereport.org/>
-          <b>Allure Report</b>
-        </a>
+        <b>Allure Report</b>
       </td>
       <td align="center">
-        <a target="_blank" href=https://qameta.io/>
-          <b>Allure TestOps</b>
-        </a>
+        <b>Allure TestOps</b>
       </td>
       <td align="center">
-        <a target="_blank" href=https://www.atlassian.com/ru/software/jira>
-          <b>Jira</b>
-        </a>
+        <b>Jira</b>
       </td>
     </tr>
   </tbody>
@@ -229,14 +199,10 @@ ____
     </tr>
     <tr>
       <td align="center">
-        <a target="_blank" href=https://www.mysql.com/>
-          <b>MySQL</b>
-        </a>
+        <b>MySQL</b>
       </td>
       <td align="center">
-        <a target="_blank" href=https://www.sqlite.org/>
-          <b>SQLite</b>
-        </a>
+        <b>SQLite</b>
       </td>
     </tr>
   </tbody>
