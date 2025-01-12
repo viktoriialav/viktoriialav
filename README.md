@@ -1,4 +1,4 @@
-<h2 align="center"> Hi there, I'm Viktoriia </h2>
+<h2 align="center"> Hi there, I'm Viktoriia :raising_hand: </h2>
 <h3 align="center"> QA Automation Engineer (Python) </h3>
 
 ___
@@ -8,8 +8,7 @@ ___
 - Master's degree in [Applied Mechanics](https://mc.spbstu.ru/o_specialnosti_prikladnaya_mehanika/) from [St.Petersburg Polytechnic University](https://english.spbstu.ru/)
 - Programming experience in Python
 - Completed the course in Test Automation in Python by [QA.GURU](https://qa.guru/)
-- My projects in Test Automation are [below](#item-1)
-- Languages: Russian (native), English (B2) 
+- My projects in Test Automation are [here](#item-1)
 
 ___
 ### :envelope_with_arrow: Contact me on:
@@ -75,6 +74,11 @@ ____
         </a>
       </td>
       <td align="center">
+        <a target="_blank" href=https://requests.readthedocs.io/en/latest/#>
+          <img align="center" src="/resources/requests.png" width="40" alt="Requests"/>
+        </a>
+      </td>
+      <td align="center">
         <a target="_blank" href=https://www.jetbrains.com/pycharm/>
           <img align="center" src="/resources/PyCharm.svg" width="40" alt="PyCharm"/>
         </a>
@@ -95,6 +99,9 @@ ____
       </td>
       <td align="center">
         <b>Appium</b>
+      </td>
+      <td align="center">
+        <b>Requests</b>
       </td>
       <td align="center">
         <b>PyCharm</b>
