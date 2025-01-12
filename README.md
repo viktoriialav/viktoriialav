@@ -5,18 +5,41 @@ ___
 
 ### :trophy: :books: :computer: Brief information about me:
 
-- Master's degree in Applied Mechanics from [St.Petersburg Polytechnic University](https://english.spbstu.ru/)
+- Master's degree in [Applied Mechanics](https://mc.spbstu.ru/o_specialnosti_prikladnaya_mehanika/) from [St.Petersburg Polytechnic University](https://english.spbstu.ru/)
+- Programming experience in Python
 - Completed the course in Test Automation in Python by [QA.GURU](https://qa.guru/)
-- Programming experience in Python for more than 1 year
-- Languages: Russian (native), English (B2)
+- My projects in Test Automation are [below](#item-1)
+- Languages: Russian (native), English (B2) 
 
-
-<!--
 ___
+### :envelope_with_arrow: Contact me on:
 
-### :books: :computer: I'm currently learning and interested in:
-- Python
-- Test Automation -->
+<table width="100%" border='0'>
+  <tbody>
+    <tr>
+      <td>
+        <img align="center" src="/resources/Telegram.png" width="40" alt="Telegram"/>
+      </td>
+      <td>
+        <a target="_blank" href="https://t.me/vik_lav">
+            <b>@vik_lav</b>
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <img align="center" src="/resources/Gmail.png" width="40" alt="Gmail"/>
+      </td>
+      <td>
+        <b>viktoriia.lav2908@gmail.com</b>
+      </td>
+    </tr>
+<!--     <tr>
+      <td><img align="center" src="/resources/LinkedIn.png" width="25" alt="LinkedIn"/></td>
+      <td><a target="_blank" href="www.linkedin.com/in/viktoriialavrova/">in/viktoriialavrova</a></td>
+    </tr> -->
+  </tbody>
+</table>
 
 ____
 
@@ -80,6 +103,23 @@ ____
   </tbody>
 </table>
 
+<table border='0' style="border-style: none">
+  <tbody>
+    <tr>
+      <td align="center">
+        <a target="_blank" href=https://www.postman.com/>
+          <img align="center" src="/resources/Postman.svg" width="40" alt="Postman"/>
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <b>Postman</b>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
 
 <table border='0' style="border-style: none">
   <tbody>
@@ -87,11 +127,6 @@ ____
       <td align="center">
         <a target="_blank" href=https://git-scm.com/>
           <img align="center" src="/resources/Git.png" width="40" alt="Git"/>
-        </a>
-      </td>
-      <td align="center">
-        <a target="_blank" href=https://github.com/>
-          <img align="center" src="/resources/Github.svg" width="40" alt="Github"/>
         </a>
       </td>
       <td align="center">
@@ -108,9 +143,6 @@ ____
     <tr>
       <td align="center">
         <b>Git</b>
-      </td>
-      <td align="center">
-        <b>Github</b>
       </td>
       <td align="center">
         <b>Jenkins</b>
@@ -191,33 +223,19 @@ ____
           <img align="center" src="/resources/MySQL_.svg" width="40" alt="MySQL"/>
         </a>
       </td>
-      <td align="center">
-        <a target="_blank" href=https://www.sqlite.org/>
-          <img align="center" src="/resources/SQLite.svg" width="40" alt="SQLite"/>
-        </a>
-      </td>
     </tr>
     <tr>
       <td align="center">
         <b>MySQL</b>
       </td>
-      <td align="center">
-        <b>SQLite</b>
-      </td>
     </tr>
   </tbody>
 </table>
 
-<!--
-      <td align="center">
-        <a target="_blank" href=https://www.postman.com/>
-          <img align="center" src="/resources/Postman.svg" width="40" alt="Postman"/>
-        </a>
-      </td>
--->
-___
 
-### :briefcase: :computer: :iphone: Diploma project at [QA.GURU](https://qa.guru/)
+___
+<a id="item-1"></a>
+### :briefcase: :computer: :iphone: Examples of my projects
 
 <table width="100%" border='0'>
   <tbody>
@@ -236,36 +254,8 @@ ___
   </tbody>
 </table>
 
-___
 
-### :envelope_with_arrow: Contact me on:
 
-<table width="100%" border='0'>
-  <tbody>
-    <tr>
-      <td>
-        <img align="center" src="/resources/Telegram.png" width="40" alt="Telegram"/>
-      </td>
-      <td>
-        <a target="_blank" href="https://t.me/vic_lav">
-            <b>@vic_lav</b>
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <img align="center" src="/resources/Gmail.png" width="40" alt="Gmail"/>
-      </td>
-      <td>
-        <b>viktoriia.lav2908@gmail.com</b>
-      </td>
-    </tr>
-<!--     <tr>
-      <td><img align="center" src="/resources/LinkedIn.png" width="25" alt="LinkedIn"/></td>
-      <td><a target="_blank" href="www.linkedin.com/in/viktoriialavrova/">in/viktoriialavrova</a></td>
-    </tr> -->
-  </tbody>
-</table>
 
 ___
 ### :bar_chart: Stats:
