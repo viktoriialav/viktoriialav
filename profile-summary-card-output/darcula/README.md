@@ -32,3 +32,13 @@
 ```
 
     
+
+---
+
+![](./4-productive-time.svg)
+
+```
+![](https://raw.githubusercontent.com/viktoriialav/viktoriialav/main/profile-summary-card-output/darcula/4-productive-time.svg)
+```
+
+    
